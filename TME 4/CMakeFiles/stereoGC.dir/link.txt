@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC -rdynamic -L"/usr/local/lib" CMakeFiles/stereoGC.dir/stereoGC.cpp.o CMakeFiles/stereoGC.dir/maxflow/graph.cpp.o -o stereoGC  -lImagineGraphics /usr/lib/libQt5OpenGL.so.5.15.2 -lGL -lGLU /usr/lib/libQt5Widgets.so.5.15.2 /usr/lib/libQt5Gui.so.5.15.2 /usr/lib/libQt5Core.so.5.15.2 
